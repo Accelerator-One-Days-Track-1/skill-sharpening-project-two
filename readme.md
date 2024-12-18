@@ -12,7 +12,7 @@ Each file in the `src` folder focuses on a different data structure and a differ
 Work through each problem one at a time. Only use LLMs to help you understand the problem. Not give you the solution.
 It should always only be a learning tool.
 
-As a programmer, as you get better, you should be able to solve these problems without using LLMs as you will be asked to do in professional interviews.
+As a programmer who is constantly learning and leveling up, you should be able to solve these problems without using LLMs as you will be asked to do in professional interviews.
 
 ## Project scoring
 
