@@ -19,8 +19,9 @@ As a programmer, as you get better, you should be able to solve these problems w
 2. `Clone` the repository
 3. `cd` into the project directory
 4. `npm install` to install the dependencies
-6. Write the code in the `src` directory to pass the tests
-7. Commit your changes and push to your repository
+6. Write the code in the `src` directory files
+7. Check the jest tests to see if you passed
+8. Commit your changes and push to your repository
 
 ## Running the Tests
 
