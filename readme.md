@@ -21,5 +21,5 @@ As a programmer, as you get better, you should be able to solve these problems w
 ## Running the Tests
 
 1. `npm test` to run all of the tests
-2. Seeing all of the tests may be overwhelming, so you can run `npm test <filename>` to run a specific test file
-3. You can also run `npm test <number>` to run the test for one specific file.
+2. Seeing all of the tests may be overwhelming, so you can run `npm test <filename>` to run a specific test file. (e.g. `npm test 01-array-basics.test.js`)
+3. You can also run `npm test <number>` to run the test for one specific file. (e.g. `npm test 1`)  
