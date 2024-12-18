@@ -1,6 +1,6 @@
 # Skill Sharpening Project Two
 
-This project is a series of exercises to help you sharpen your skills in JavaScript.
+This project is a series of exercises to help you sharpen your basic JavaScript skills.
 
 Each file in the `src` folder focuses on a different data structure and a different goal.
 
