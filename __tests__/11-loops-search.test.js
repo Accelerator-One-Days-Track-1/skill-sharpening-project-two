@@ -3,7 +3,7 @@ const {
     iterativeFilter,
     iterativeReduce,
     findPairs
-} = require('../src/10-loops.search');
+} = require('../src/11-loops.search');
 
 describe('Loops and Search', () => {
     test('iterativeMap replaces elements with their indices', () => {

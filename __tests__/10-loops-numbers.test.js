@@ -4,7 +4,7 @@ const {
     getMultiples,
     findCommonMultiple,
     getFibonacciNumber
-} = require('../src/09-loops-numbers');
+} = require('../src/10-loops-numbers');
 
 describe('Loops and Numbers', () => {
     test('calculateFactorial calculates factorial of a number', () => {
