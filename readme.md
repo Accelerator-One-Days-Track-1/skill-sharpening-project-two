@@ -30,6 +30,6 @@ This project is only based on **completion.** To complete a file, all of the tes
 
 ## Running the Tests
 
-1. `npm test` to run all of the tests
+1. To view all tests from all files and see which ones are passing, run `npm test`
 2. Viewing all of the tests at once may be overwhelming. If you want to run a specific test file instead, run `npm test <filename>`  (e.g. `npm test 01-array-basics.test.js`)
 3. To view tests for a specific file, you can also simplify the command by runnings `npm test <number>` to run the test for one specific file. (e.g. `npm test 1`)  
