@@ -4,7 +4,8 @@
 <img src="./assets/sharpen.webp" alt="Sharpening" width="500">
 
 ## Project Description
-This project is a series of exercises to help you sharpen your basic JavaScript skills.
+
+When learning a new skill, it is crucial to practice it over and over again. This project is a series of exercises to help you sharpen your basic JavaScript skills. The files will range in difficulty, but all will require you to reproduce skills you've just learned.
 
 Each file in the `src` folder focuses on a different data structure and a different goal.
 
@@ -12,6 +13,10 @@ Work through each problem one at a time. Only use LLMs to help you understand th
 It should always only be a learning tool.
 
 As a programmer, as you get better, you should be able to solve these problems without using LLMs as you will be asked to do in professional interviews.
+
+## Project scoring
+
+This project is only based on **completion.** To complete a file, all of the tests associated with that file must pass. Each file you complete is worth 1 point. If you complete no test for that file, you will receive 0 points. If some tests pass for that file, you will receive 0.5 points.
 
 ## Getting Started
 
